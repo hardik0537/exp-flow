@@ -26,6 +26,6 @@ The analysis report can be found in the file "Analysis3.ipynb" file.
 The raw data can be found in the folder "Data".
 The processed data can be found in the folder "ProcessedData"
 
-##### 2.3. Important Info: 
+#### 2.3. Important Info: 
 - We have done data-preprocessing leveraging Apache Spark technology.
 - We assume you already have Jupyter notebook, Python 3.6 and Apache Spark installed on your local.
